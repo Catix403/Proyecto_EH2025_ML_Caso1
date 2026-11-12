@@ -1,0 +1,11 @@
+Plaintext
+data/
+*.sav
+*.dta
+*.csv
+__pycache__/
+*.py[cod]
+venv/
+.ipynb_checkpoints/
+outputs/*.html
+.DS_Store
